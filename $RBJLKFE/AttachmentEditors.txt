@@ -1,0 +1,18 @@
+Custom 📝
+Preset 📝#[index]
+<color=green>SAVE ✔</color>
+<color=red>CLEAR ATTACHMENTS ❌</color>
+Default
+📝 PRESETS 📝
+<size=250><color=red>\n-🔒-</color></size>
+<color=#0096FF>SITE-02</color> FIREARM CUSTOMIZATION POINT\n<size=75%>PLEASE DONT DIE</size>
+WELCOME, USER!
+WORKSTATION IS WORKING OUT...
+<size=250><color=#00b300>\n-🔓-</color></size>
+<color=#0096FF>SITE-02</color> FIREARM CUSTOMIZATION POINT\n<size=75%>GO JUMP OF THE MAP</size>
+SELF DESTRUCT...
+WORKSTATION IS EXPLODING...
+I SHOW SPEED
+I SHOW MEAT
+[Attachment] Customization
+Press [Key] To EXPLODE SHY GUY.

@@ -1,0 +1,6 @@
+RUN JUST RUN <color=#F00>SCPs</color> and <color=#0096FF>Foundation Staff</color>.\n<color=#008F1E>Chaos Insurgency</color> assist them in escaping.
+SKILL ISSUE.\nIn the meantime report N13MAND.
+Shoud have spawned D-Boi<color=#F00>SCPs</color> and <color=#008F1E>Chaos Insurgency</color>. <color=#0096FF>Epsilon-11</color> and <color=#5B6370>Facility Guards</color> assist them in escaping.
+Kidnap <color=#FFFF7CFF>Scientists</color> and Help <color=#FF8E00>D-Class</color> And Murder <color=#0096FF>Foundation Staff</color>.
+A member of an elite task force that responds to breaches, ensuring the security of the Foundation. Their primary goal is to secure <color=#0096FF>Site-02</color> while recontaining all <color=#F00>SCPs</color>. They are also tasked with neutralizing <color=#008F1E>Chaos Insurgency</color>, recapturing <color=#FF8E00>D-Class</color>, and escorting <color=#FFFF7CFF>Scientists</color> to safety.
+A guard within the facility who's aim is to evacuate any <color=#FFFF7CFF>Scientists</color>, recapture escaped <color=#FF8E00>D-Class</color> and stop the looming <color=#F00>SCP</color> threat. Cooperates with <color=#0096FF>Epsilon-11</color> to get this done while eliminating anyone or anything else that gets in the way.

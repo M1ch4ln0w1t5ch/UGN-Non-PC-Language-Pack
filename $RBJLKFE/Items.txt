@@ -1,0 +1,59 @@
+0~<color=#bcb1e4>💳 Janitor Keycard 💳</color>
+1~<color=#FFFF7C>💳 Nerd Keycard 💳</color>
+2~<color=#ddab20>💳 Super Nerd Keycard 💳</color>
+3~<color=#217778>💳 Land Lord Keycard 💳</color>
+4~<color=#5B6370>💳 Cannon Fodder Keycard 💳</color>
+5~<color=#70C3FF>💳 MTF Noob Keycard 💳</color>
+6~<color=#b6887f>💳 How? Keycard 💳</color>
+7~<color=#0096FF>💳 MTF Visa Silver 💳</color>
+8~<color=#003DCA>💳 MTF Mastercard 💳</color>
+9~<color=#ba1846>💳 Backstage Pass 💳</color>
+10~<color=#008F1C>📟 Hackermann Device 📟</color>
+11~<color=#FFFFFF>💳 Multi Pass 💳</color>
+12~<color=#5B6370>📻 Radio 📻<size=75%>\nUse this if you want the feeling of having friends</size></color>
+13~<color=#FFFF7C>🔫 Water Pistol 🔫</color>
+14~<color=#FFFF7C>⚕ MEEEEEEEEEEEEEDIC ⚕\n<size=75%>✚AHHHHHHHH I´M DYING I NEED A MEDIBAG✚ \n-Dallas.</size></color>
+15~<color=#FF8E00>🔦 Flashlight 🔦\n<size=75%>Check the Batterys before use</size></color>
+16~<color=#003DCA><size=120%>⚡ BZZZZZZZZZZZZZZZ ⚡</size><size=75%>\nIf you don´t want to cuddle Peanut</size>\nDamage?: Well That´s a lot of Damage⚡\nIt´s Heavy\nHow Heavy?\nDon´t ask, Just Heavy.</size></color>
+17~<color=#ff0000>💊 Angela, I need Healing 💊\n<size=75%>✚ Genji here\n❤️\nnight time coffee</size></color>
+18~<color=#ff0000>🍼 Coke 🍼\n<size=75%>🏃Gotta go Fast\nas long as you want🏃\nuntil you die.💀</size></color>
+19~<color=#FF8E00>💣 Shotgun Boom 💣</color>
+22~<color=#FF8E00>💣 NATO Boom 💣</color>
+27~<color=#FF8E00>💣 Wild West Boom 💣</color>
+28~<color=#FF8E00>💣 Russian Boom 💣</color>
+29~<color=#FF8E00>💣 Standard Boom 💣</color>
+20~<color=#0096FF>🔫 Actually not crap 🔫\n<size=75%>Facility Recovery-Standard Rifle</size></color>
+21~<color=#70C3FF>🔫 Crap 🔫\n<size=75%>C.R.A.P.</size></color>
+23~<color=#5B6370>🔫 FSP-9 🔫\n<size=75%>9mm kills the body .45 ACP kills the soul -RussianBadger </size></color>
+24~<color=#5B6370>🔫 BRRRRRRRRRRRRRRR 🔫\n<size=75%>Deliver democracy at 1000 units per minute</size></color>
+25~<color=#0D7D35>💥 Hot Potato 💥<size=75%>\nGood for Killing Spawnwaves</size></color>
+26~<color=#5B6370>💣 Discord Light Theme 💣<size=75%>\nOnly for the Sadistic Discord Users💥</size></color>
+30~<color=#5B6370>🔫 Semi Crap 🔫\n<size=75%>Not as crap as C.R.A.P.</size></color>
+31~<color=red>⚽ BAAAAAAAAAAAAAAAAAAALL ⚽\n<size=75%>👥Use it to play catch with Doggo.\nOr use it in tight Spaces with some Friends.</size></color>
+32~<color=#ff0000>🎩 The Ring (but it is as Hat) 🎩\n<size=75%>Grants you the Power of your Dad for 15s.</size></color>
+33~<color=#FFFF7C>💉 Heroin 💉⛨<size=75%>\nIf you wanna make Friends in Frankfurt🏃</size></color>
+34~<color=#FFFF7C>💊 Grandpas Pills 💊❤️\n<size=75%>Vicodin 400mg\nOne Pill by Mouth if needend in Case of Pain\nMaximum Dose 1600mg per Day.</size></color>
+35~💿 Coin 💿
+36~<color=#5B6370>🎽 P.C.V. - Good Luck 🎽</color>
+37~<color=#0096FF>🎽 P.C.V. - Somewhere around Safe 🎽</color>
+38~<color=#0D7D35>🎽 P.C.V. - +10 Anime Armor 🎽</color>
+39~<color=#006826>🔫 .357 Magnum 🔫\n<size=75%>No Jams with that Baby.</size></color>
+40~<color=#008F1C>🔫 AK 105 🔫\n<size=75%>Russian engineering at its finest (only partially falls apart)</size></color>
+41~<color=#006826>🔫 DBB 🔫\n<size=75%>Double Barrel Baguette </size></color>
+42~<color=#ff0000>🍬 The free Candy Van 🍬</color>
+43~<color=#ff0000>💡 Polish Electrican 💡\n<size=75%>Steals the Light \n🚪Lock the Door to Run away.</size></color>
+44~<color=#ff0000>⚱ Grandpa ⚱<b>☁️</b>\n<size=75%>Grandpa Raymond 1932-2008\nRest in Peace</size></color>
+45~<color=#ff0000>⚱ Grandma ⚱<b>☁️</b>\n<size=75%>Grandma Lizzy 1927-2012\nRest in Peace</size></color>
+46~<color=red>💉 Flubber 💉\n<size=75%>The Friendly Green Goo</size></color>
+47~<color=#003DCA>🔫 LAZ Gun 🔫</color>
+48~<color=#ff0000>🔫 Water Pistol on Steroids 🔫\n<size=75%>Abomination</size></color>
+49~<color=#ff0000>🔊 Telephone Joker 🔊\n<size=75%>👻Call your Mom.\n🕒 Only the first 30s are free.</size></color>
+50~<color=#ff0000>🍭 Do you rly want that? 🍭<size=75%>It's a… Stun Baton!?</size>\n\nSwing LMB: Some DMG\nCharge RMB: At least 2 DMG\n⛨ Penetrates <color=#6d67da>Hume Shield</color></color></size>.
+51~<color=#004B93>🍼 Pepsi 🍼\n<size=75%>🐌Coke ordered on Wish</size></color>
+52~<color=#003DCA>🔫 G-36 🔫\n<size=75%>Best Gun in the World -German SoD </size></color>
+53~<color=#ff0000>🔫 A7 🔫\n<size=75%>Directly out of the Stocks of the UdSSR</size></color>
+54~<color=#FF8E00>🏮 Hagrid´s Lantern 🏮\n<size=75%>Right, then! First years! This way, please! Come on, now, don't be shy! Come on now, hurry up!.</size></color>
+55~❄️ Yellow Snowball ❄️
+56~Naughty Boy
+57~Naughty Boy?
+58~FUCK YOU!!!!!!!!!!!!!!

@@ -1,0 +1,21 @@
+FERNROHR
+---
+AUTCHIES
+Penetration XD
+GOTTA GO FAST
+Recoil
+Recoil when DED
+Bullet accuracy
+PRAY´N`Spray accuracy
+Aiming accuracy
+Equip time
+PEW PEW loudness
+JUICE capacity
+Equip time
+Reload time
+---
+Aiming speed
+Pellet spread
+Pattern consistency
+Projectiles number
+Reload speed

@@ -1,0 +1,25 @@
+None
+<color=#EC2222>Peanut</color>
+<color=#FF8E00>D-BOOOOOOIII</color>
+I wanna Play
+<color=#EC2222>Grandpa Larry</color>
+<color=#0096FF>Nerd with Gun</color>
+<color=#EC2222>The Doc</color>
+<color=#FFFF7C>Nerd</color>
+<color=#8080FF>Windows 98</color>
+<color=#008F1C>D-Boi With Gun</color>
+<color=#EC2222>I wanna Cry</color>
+<color=#CA1111>Doc´s Slave</color>
+<color=#0096FF>MTF Silver</color>
+<color=#003DCA>MTF Boss</color>
+<color=#70C3FF>MTF Noob</color>
+<color=#ff00b0>Admin</color>
+<color=#5B6370>Cannon Fodder</color>
+<color=#EC2222>Doggo</color>
+Custom Role
+<color=#008F1C>CS-2</color>
+<color=#006826>Grunt</color>
+<color=#0D7D35>HEAVY</color>
+Overwatch
+<color=#A020F0>INOP</color>
+<color=#EC2222>SPOOOOKAAAY</color>
