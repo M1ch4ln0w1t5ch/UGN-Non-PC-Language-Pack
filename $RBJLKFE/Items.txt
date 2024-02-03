@@ -15,7 +15,7 @@
 14~<color=#FFFF7C>⚕ MEEEEEEEEEEEEEDIC ⚕\n<size=75%>✚AHHHHHHHH I´M DYING I NEED A MEDIBAG✚ \n-Dallas.</size></color>
 15~<color=#FF8E00>🔦 Flashlight 🔦\n<size=75%>Check the Batterys before use</size></color>
 16~<color=#003DCA><size=120%>⚡ BZZZZZZZZZZZZZZZ ⚡</size><size=75%>\nIf you don´t want to cuddle Peanut</size>\nDamage?: Well That´s a lot of Damage⚡\nIt´s Heavy\nHow Heavy?\nDon´t ask, Just Heavy.</size></color>
-17~<color=#ff0000>💊 Angela, I need Healing 💊\n<size=75%>✚ Genji here\n❤️\nnight time coffee</size></color>
+17~<color=#ff0000>💊 Angela, I need Healing 💊\n<size=75%>✚ Genji here\n❤️night time coffee</size></color>
 18~<color=#ff0000>🍼 Coke 🍼\n<size=75%>🏃Gotta go Fast\nas long as you want🏃\nuntil you die.💀</size></color>
 19~<color=#FF8E00>💣 Shotgun Boom 💣</color>
 22~<color=#FF8E00>💣 NATO Boom 💣</color>
