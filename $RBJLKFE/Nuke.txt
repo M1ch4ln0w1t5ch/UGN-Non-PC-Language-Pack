@@ -1,4 +1,4 @@
 <size=250>-<color=red>☢️</color>-</size><size=100>\nBIG KABOOM: -<color=red>NAH BRO</color>-</size>
-<size=50><color=cyan>WINDOWS n\IS UPDATING</color>-</size>
+<size=75><color=cyan>WINDOWS \n IS UPDATING</color>-</size>
 <size=250>-<color=lime>☢️</color>-</size><size=100>\nBIG KABOOM: -<color=lime>>RDY</color>-</size>
 <size=90>-GOING KABOOOOM-</size>
