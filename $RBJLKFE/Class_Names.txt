@@ -8,7 +8,7 @@
 <color=#8080FF>Windows 98</color>
 <color=#008F1C>Chaos Recon</color>
 <color=#EC2222>I Wanna Cry</color>
-<color=#CA1111>Doc´s Slave</color>
+<color=#CA1111>Doc's Slave</color>
 <color=#0096FF>Epsilon-11 Silver</color>
 <color=#003DCA>Epsilon-11 Boss</color>
 <color=#70C3FF>Epsilon-11 Noob</color>
