@@ -31,3 +31,4 @@ This Tooltip is CLASSIFIED
 This Tooltip is CLASSIFIED
 "Der Scientist lebt noch insofern er nicht tod ist" -Aerosun
 This Tooltip is CLASSIFIED
+"Wie viel Heizöl hat eine Giraffe?" -Adentrix
